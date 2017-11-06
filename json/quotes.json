@@ -1,0 +1,55 @@
+[{
+    "id": 0,
+    "book": "1 Corinthians",
+    "chapter": 16,
+    "verse": 13,
+    "text": "Be on your guard; stand firm in the faith; be courageous; be strong."
+}, {
+    "id": 1,
+    "book": "Psalm",
+    "chapter": 27,
+    "verse": 4,
+    "text": "One thing I ask from the LORD, this only do I seek: that I may dwell in the house of the LORDall the days of my life, to gaze on the beauty of the LORDand to seek him in his temple."
+}, {
+    "id": 2,
+    "book": "Psalm",
+    "chapter": 34,
+    "verse": 8,
+    "text": "Taste and see that the LORD is good; blessed is the one who takes refuge in him."
+}, {
+    "id": 3,
+    "book": "Proverbs",
+    "chapter": 17,
+    "verse": 17,
+    "text": "A friend loves at all times, and a brother is born for a time of adversity."
+}, {
+    "id": 4,
+    "book": "John",
+    "chapter": 15,
+    "verse": 13,
+    "text": "Greater love has no one than this: to lay down one’s life for one’s friends."
+}, {
+    "id": 5,
+    "book": "Romans",
+    "chapter": 8,
+    "verse": 28,
+    "text": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose."
+}, {
+    "id": 6,
+    "book": "Romans",
+    "chapter": 8,
+    "verse": 31,
+    "text": "What, then, shall we say in response to these things? If God is for us, who can be against us?"
+}, {
+    "id": 7,
+    "book": "Romans",
+    "chapter": 15,
+    "verse": 13,
+    "text": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit."
+}, {
+    "id": 8,
+    "book": "1 Corinthians",
+    "chapter": 13,
+    "verse": 12,
+    "text": "For now we see only a reflection as in a mirror; then we shall see face to face. Now I know in part; then I shall know fully, even as I am fully known."
+}]
